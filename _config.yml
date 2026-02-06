@@ -8,7 +8,7 @@ baseurl: "/archive"
 url: "https://sofiacheetham.github.io"
 author: ""
 email: ""
-telar_theme: "austin" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
